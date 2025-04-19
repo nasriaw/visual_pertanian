@@ -1,0 +1,7 @@
+streamlit
+plotly
+#plotly.express
+#collections
+#urllib.error
+pandas
+xlrd
